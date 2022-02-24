@@ -15,3 +15,5 @@ print('Вы выбрали напрвление')
 
 print('Это копия репозитория')
 print('************************')
+
+print('qwekkwekqwmelkmdfgkdfmgkmfglkmdfglkmfdglkmdfg')
